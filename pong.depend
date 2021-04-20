@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1480270968 source:l:\hax\pong\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1548506515 source:d:\info+tic\hax\code blockz\pong\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
